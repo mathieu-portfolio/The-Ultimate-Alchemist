@@ -48,8 +48,7 @@ Players can **add, remove, or modify** the recipes by editing this file.
 ## How to Run the Project
 ### **Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/TheUltimateAlchemist.git
-cd TheUltimateAlchemist
+git clone https://github.com/mathieu-portfolio/The-Ultimate-Alchemist.git
 ```
 
 ### **Open in Unity**
