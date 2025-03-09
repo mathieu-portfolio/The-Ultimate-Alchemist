@@ -1,4 +1,4 @@
-# The Ultimate Alchemist - Unity Game
+# The Ultimate Alchemist
 
 ## Overview
 **The Ultimate Alchemist** is a Unity-based game where players combine elements to discover new ones.  
